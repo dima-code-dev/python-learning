@@ -1,1 +1,1 @@
-print('Hello, GitHub! I'm Dima')
+print('Hello, GitHub! I'm Dima.It's my first project on GitHub. i wanna learn it!')
